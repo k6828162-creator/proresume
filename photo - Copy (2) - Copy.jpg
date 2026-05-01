@@ -1,0 +1,8 @@
+<img src="images/profile.jpg" alt="Kajal Kumari" class="profile-pic">
+.profile-pic {
+  width: 150px;        /* photo size */
+  border-radius: 50%;  /* circle shape */
+  box-shadow: 0 0 10px #aaa; /* shadow effect */
+  margin: 10px 0;
+}
+
